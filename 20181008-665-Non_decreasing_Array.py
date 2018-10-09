@@ -6,6 +6,7 @@ class Solution(object):
         :param nums:
         :return:
         """
+
         if len(nums) < 2:
             return True
 
