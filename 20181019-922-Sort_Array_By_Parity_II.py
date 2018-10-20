@@ -6,6 +6,7 @@ class Solution(object):
         :type A: List[int]
         :rtype: List[int]
         """
+
         odd = []
         even = []
 
