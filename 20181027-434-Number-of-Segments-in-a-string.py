@@ -13,3 +13,4 @@ s = "Hello, my name is John"
 test = Solution()
 result = test.countSegments(s)
 print(result)
+
